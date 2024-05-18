@@ -1,0 +1,1 @@
+In this project I'll use the skills and knowledge I acquired throughout The Odin Project lessons to create a web page that contains various recipes. The objective is to include text, images and links. 
